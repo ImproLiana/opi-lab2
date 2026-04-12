@@ -1,4 +1,4 @@
-public class G implements D, C, I {
+public class G extends null implements D, C, I {
 
     private String j = "hello";
 
@@ -58,5 +58,9 @@ public class G implements D, C, I {
 
     public void ab() {
         System.out.println("\n");
+    }
+
+    public String kk() {
+        return "Hello world";
     }
 }
