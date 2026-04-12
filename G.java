@@ -63,4 +63,16 @@ public class G extends null implements D, C, I {
     public String kk() {
         return "Hello world";
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public double ad() {
+        return 9.11;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }
