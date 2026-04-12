@@ -55,4 +55,8 @@ public class G implements D, C, I {
     public byte oo() {
         return 3;
     }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }
