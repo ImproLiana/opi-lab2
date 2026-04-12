@@ -39,4 +39,8 @@ public class G implements D, C, I {
     public long dd() {
         return 100500;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
