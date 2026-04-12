@@ -51,4 +51,8 @@ public class G implements D, C, I {
     public Object pp() {
         return this;
     }
+
+    public byte oo() {
+        return 3;
+    }
 }
