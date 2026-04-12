@@ -1,6 +1,10 @@
-public interface C {
+public class C extends null {
 
     java.util.Set<Integer> ll();
 
     double ee();
+
+    public double ad() {
+        return 11;
+    }
 }

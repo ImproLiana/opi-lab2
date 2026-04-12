@@ -75,4 +75,8 @@ public class G extends null implements D, C, I {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }
