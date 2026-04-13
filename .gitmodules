@@ -1,0 +1,3 @@
+[submodule "libs/sub-project"]
+	path = libs/sub-project
+	url = https://github.com/ImproLiana/opi-sub.git
