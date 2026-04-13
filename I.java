@@ -8,4 +8,3 @@ public class I extends null {
         return new java.util.ArrayList<String>();
     }
 }
-// smth new for 3.2
