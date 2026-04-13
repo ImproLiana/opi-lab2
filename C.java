@@ -8,3 +8,4 @@ public class C extends null {
         return 11;
     }
 }
+// edited for 3.1
