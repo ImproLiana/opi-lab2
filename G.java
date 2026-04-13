@@ -80,3 +80,4 @@ public class G extends null implements D, C, I {
         System.out.println(getClass().getName());
     }
 }
+// ляляля
