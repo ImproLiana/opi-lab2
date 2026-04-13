@@ -1,0 +1,3 @@
+[submodule "new-reposit"]
+	path = new-reposit
+	url = https://github.com/ImproLiana/opi-lib.git
