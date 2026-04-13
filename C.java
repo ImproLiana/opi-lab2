@@ -8,4 +8,8 @@ public class C extends null {
         return 11;
     }
 }
+<<<<<<< Updated upstream
 // edited for 3.1
+=======
+//smth new
+>>>>>>> Stashed changes
